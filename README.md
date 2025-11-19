@@ -1,8 +1,11 @@
 # Secure-Enterprise-Network-Design-Cisco-Packet-Tracer-
 
-This repository contains a complete secure enterprise network design and implementation built using Cisco Packet Tracer, as well as a report covering the entire process.
+This project was developed as part of a **network design and security coursework assessment**.  
+It demonstrates the creation of a secure, segmented enterprise network using Cisco Packet Tracer, supported by a full technical report detailing the design, implementation, configurations, and testing.
 
-The project demonstrates a professionally structured network for a **generic multi-department organisation**, featuring segmentation, secure routing, core services, and layered access controls.
+The repository includes both:
+- The **Packet Tracer project file**
+- The **complete written report** documenting all stages of the network design
 
 The design focuses on:
 
@@ -46,10 +49,7 @@ The design focuses on:
 ## ▶️ How to Use
 
 1. Install **Cisco Packet Tracer (version 8.2.2 or later)**
-2. Open the project file:
-
-/PacketTracer/Enterprise_Network.pkt
-
+2. Open the project file Enterprise_Network.pkt inside [PacketTracer](./PacketTracer/)
 
 ---
 
